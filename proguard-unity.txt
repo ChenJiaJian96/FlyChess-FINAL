@@ -1,0 +1,8 @@
+-keep class bitter.jnibridge.* { *; }
+-keep class com.unity3d.player.* { *; }
+-keep class org.fmod.* { *; }
+-keep class ai.* { *; }
+-keep class chess.* { *; }
+-keep class com.unity3d.flyingchess.* { *; }
+-keep class game_driver.* { *; }
+-keep class protocol.* { *; }
